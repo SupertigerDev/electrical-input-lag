@@ -22,10 +22,35 @@ The visual quality of the monitor is not as good as it should be. The graphics l
 The issue is present on the desktop (while less noticeable) and in-game. Dragging windows around feels very stuttery.
 **Example videos**: TODO
 
-### "They are just hardware/software issues" "Just buy a new GPU" "Enable xxx in settings"
+# "They are just hardware/software issues" "Just buy a new GPU" "Enable xxx in settings"
 No. We have spent so much money on buying the latest and greatest hardware with no fix. While these issues may sound like simple fixes, they are not. We have also tried pretty much EVERY regedit, NVIDIA control panel (and AMD) options, in which none of them worked.
 
-### Some changes give temporary improvements.
-Strangely, Some changes we make, whether in hardware or software, it gives temporary improvements. Things may be fixed for 30 mins to months depending on what we change. This signifies that this could be related to an electrical issue or some interference. Because of this strange behavior, most people think that we are lost, and its all in our head, but please trust us. This problem exists, and is very frustrating to deal with.
+# Changes give temporary improvements.
+Strangely, changes we make, whether in hardware or software, it gives temporary improvements. Things may be fixed for 30 mins to months depending on what we change. Then, the problem slowly comes back. What do I mean by that? Well, the floaty feeling does not suddenly come back, it comes back, just like a dimmer switch. This signifies that this could be related to an electrical issue or some interference. Because of this strange behavior, most people think that we are lost, and its all in our head, but please trust us. This problem exists, and is very frustrating to deal with.
 
-### 
+# What's been tried?
+
+### Buying a new power supply
+Buying a new, expensive power supply only temporary fixes the issue for around a week to a month.
+### Buying a new RAM, GPU, CPU, Motherboard, Monitor
+Temporary fix, lasts around a week to a month.
+### Buying a UPS
+While many UPSes are very expensive, Some have tried to use an UPS to fix this problem, unfortunately it did not work.
+### Disconnecting the earth/ground pin
+Does not make a difference, maybe small temporary effect, as with any changes.
+
+### Moving the wires (DP, Power, etc)
+Moving the cables around temporary fixes the problem for 5-10 mins, but the effect starts to disappear after a few attempts.
+
+### Moving to a new house
+While not everyone has the option to do this, some have. There are mixed results, Some say that this is the fix. However, some have tried this with no fix.
+
+### Making regedit changes
+While there are many more reggedit commands to try, This isn't a true solution. Why do we have to make regedit changes to fix this issue? However, for now, theres no known regedit change that has fixed this issue, only temperament.
+
+### Reducing in game settings 
+Reducing game settings gives a temporary effect for 10 minutes or so. Enabling anti-aliasing does not do anything.
+
+### Contribute
+Please contribute and add more things you have tried to this list by creating a new PR.
+
