@@ -32,7 +32,7 @@ Strangely, changes we make, whether in hardware or software, it gives temporary 
 
 ### Buying a new power supply
 Buying a new, expensive power supply only temporary fixes the issue for around a week to a month.
-### Buying a new RAM, GPU, CPU, Motherboard, Monitor
+### Buying a new RAM, GPU, CPU, Motherboard, Monitor, Mouse
 Temporary fix, lasts around a week to a month.
 ### Buying a UPS
 While many UPSes are very expensive, Some have tried to use an UPS to fix this problem, unfortunately it did not work.
