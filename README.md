@@ -51,6 +51,9 @@ While there are many more reggedit commands to try, This isn't a true solution. 
 ### Reducing in game settings 
 Reducing game settings gives a temporary effect for 10 minutes or so. Enabling anti-aliasing does not do anything.
 
+### Changing mouse in game sensitivity, polling rate or dpi
+Gives a temporary effect for 10 minutes or so.
+
 ### Contribute
 Please contribute and add more things you have tried to this list by creating a new PR.
 
