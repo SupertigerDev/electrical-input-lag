@@ -46,7 +46,7 @@ Moving the cables around temporary fixes the problem for 5-10 mins, but the effe
 While not everyone has the option to do this, some have. There are mixed results, Some say that this is the fix. However, some have tried this with no fix.
 
 ### Making regedit changes
-While there are many more reggedit commands to try, This isn't a true solution. Why do we have to make regedit changes to fix this issue? However, for now, theres no known regedit change that has fixed this issue, only temperament.
+While there are many more regedit commands to try, This isn't a true solution. Why do we have to make regedit changes to fix this issue? However, for now, theres no known regedit change that has fixed this issue, only temperament.
 
 ### Reducing in game settings 
 Reducing game settings gives a temporary effect for 10 minutes or so. Enabling anti-aliasing does not do anything.
