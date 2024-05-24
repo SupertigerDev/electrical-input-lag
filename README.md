@@ -9,18 +9,18 @@ Mouse feels floaty, on ice, does not feel linear, feels like you are drunk, and 
 
 ### Movement
 When moving with your mouse or keyboard, it feels very stuttery, G-sync does not help.  
-**Example videos**: TODO
+**Example videos**: https://youtu.be/wNjYleJCsR8?t=93
 
 ### Refresh rate
 Even with a high refresh rate 240hz monitor, Moving your mouse on desktop/in game does not feel smooth, it feels like an unstable 60fps. 60hz monitors feel much worse than what they should.
 
 ### Graphics look buggy/muddy
 The visual quality of the monitor is not as good as it should be. The graphics look very dull, shimmering and distracting, more than usual. Antialiasing does not do anything on any game.  
-**Example videos**: TODO
+**Example videos**: https://youtu.be/wNjYleJCsR8?t=257
 
 ### In-game or desktop
 The issue is present on the desktop (while less noticeable) and in-game. Dragging windows around feels very stuttery.  
-**Example videos**: TODO
+**Example videos**: https://youtu.be/wNjYleJCsR8?t=453
 
 # "They are just hardware/software issues" "Just buy a new GPU" "Enable xxx in settings"
 No. We have spent so much money on buying the latest and greatest hardware with no fix. While these issues may sound like simple fixes, they are not. We have also tried pretty much EVERY regedit, NVIDIA control panel (and AMD) options, in which none of them worked.
