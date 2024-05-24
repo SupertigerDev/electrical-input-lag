@@ -54,6 +54,9 @@ Reducing game settings gives a temporary effect for 10 minutes or so. Enabling a
 ### Changing mouse in game sensitivity, polling rate or dpi
 Gives a temporary effect for 10 minutes or so.
 
+### Other OS
+After installing Linux, we can feel the floaty feeling right on the desktop. In game, there is no difference compared to Windows.  This signifies that this is not an issue with the OS level.
+
 ### Contribute
 Please contribute and add more things you have tried to this list by creating a new PR.
 
