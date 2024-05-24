@@ -5,7 +5,7 @@ Over the past 10+ years, minority of users have been experiencing strange behavi
 
 ### Floaty/delayed mouse
 Mouse feels floaty, on ice, does not feel linear, feels like you are drunk, and unable to aim at your targets.  
-**Example videos**: TODO
+**Example videos**: https://www.youtube.com/watch?v=4FOYytNGzhM
 
 ### Movement
 When moving with your mouse or keyboard, it feels very stuttery, G-sync does not help.  
