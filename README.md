@@ -19,7 +19,7 @@ The visual quality of the monitor is not as good as it should be. The graphics l
 **Example videos**: TODO
 
 ### In-game or desktop
-The issue is present on the desktop (while less noticeable) and in-game. Dragging windows around feels very stuttery.
+The issue is present on the desktop (while less noticeable) and in-game. Dragging windows around feels very stuttery.  
 **Example videos**: TODO
 
 # "They are just hardware/software issues" "Just buy a new GPU" "Enable xxx in settings"
