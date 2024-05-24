@@ -4,7 +4,7 @@ Over the past 10+ years, minority of users have been experiencing strange behavi
 # Symptoms
 
 ### Floaty/delayed mouse
-Mouse feels floaty, on ice, does not feel linear, feels like you are drunk, and unable to aim at your targets.
+Mouse feels floaty, on ice, does not feel linear, feels like you are drunk, and unable to aim at your targets.  
 **Example videos**: TODO
 
 ### Movement
